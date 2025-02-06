@@ -1,7 +1,7 @@
 
 function navigate(page) {
     if (page === 'home') {
-        window.location.href = 'travel.html'; 
+        window.location.href = 'index.html'; 
     } else if (page === 'About') {
         window.location.href = 'about.html'; 
     } else if (page === 'Sign In') {
